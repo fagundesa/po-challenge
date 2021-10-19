@@ -23,5 +23,8 @@ Você entendeu a demanda e pediu auxílio do time de Design de Produto para dese
 
 ![modal_de_cadastro_completo](https://user-images.githubusercontent.com/59707512/137926227-831000a7-ae66-4b34-80d3-d45fda7f909f.png)
 
-- Você aprovou o design da tela e precisa priorizar essa atividade junto ao time de desenolvimento. Escreva uma user-story para essa funcionalidade:
+#### Você aprovou o design da tela e precisa priorizar essa atividade junto ao time de desenolvimento. Escreva uma user-story para essa funcionalidade:
 
+---
+
+### 2) O time de desenvolvimento concluiu o desenvolvimento da funcionalidade descrita na questão anterior. Quais testes funcionais você faria para validar essa funcionalidade?
