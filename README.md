@@ -17,7 +17,7 @@ O cadastro básico de um cliente Shipay consiste em:
 Considere que atualmente só é possível cadastrar essas entidades separadamente, ou seja, primeiro é necessário cadastrar a **(i) Conta Shipay**, depois deve ser cadastrado o **(ii) Usuário do Painel Shipay** e após, deve ser cadastrada uma **(iii) Loja** na Conta do cliente Shipay. 
 
 
-Um parceiro estratégico trouxe a seguinte demanda para você, Product Owner da Shipay:
+Considerando esse cenário, um parceiro estratégico trouxe a seguinte demanda para você, Product Owner da Shipay:
 
 
 *"Gostaria de ter a possibilidade de cadastrar a **(i) Conta Shipay**, o **(ii) Usuário do Painel Shipay** e uma **(iii) Loja** com um único formulário para não ter que acessar 3 formulários separados para concluir o cadastro do Lojista na Shipay."*
