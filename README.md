@@ -10,7 +10,7 @@ O cadastro básico de um cliente Shipay consiste em:
 **(ii)  Usuário do Painel Shipay:** permite login no Painel Shipay
 - Dados necessários: nome, cpf, telefone, e-mail do usuário e senha
 
-**(iii) Lojas:** Cada conta Shipay pode ter "n" lojas cadastradas
+**(iii) Lojas:** Necessário para o cliente conseguir gerar cobranças via PIX e carteiras digitais 
 - Dados necessários: CNPJ, endereço, nome da loja, quantidade de caixas
 
 ---
