@@ -13,6 +13,7 @@ O cadastro básico de um cliente Shipay consiste em:
 **(iii) Lojas:** Cada conta Shipay pode ter "n" lojas cadastradas
 - Dados necessários: CNPJ, endereço, nome da loja, quantidade de caixas
 
+---
 
 Considere que atualmente só é possível cadastrar essas entidades separadamente, ou seja, primeiro é necessário cadastrar a **(i) Conta Shipay**, depois deve ser cadastrado o **(ii) Usuário do Painel Shipay** e após, deve ser cadastrada uma **(iii) Loja** na Conta do cliente Shipay. 
 
