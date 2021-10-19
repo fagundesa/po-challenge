@@ -13,18 +13,25 @@ O cadastro básico de um cliente Shipay consiste em:
 **(iii) Lojas:** Cada conta Shipay pode ter "n" lojas cadastradas
 - Dados necessários: CNPJ, endereço, nome da loja, quantidade de caixas
 
+
 Considere que atualmente só é possível cadastrar essas entidades separadamente, ou seja, primeiro é necessário cadastrar a **(i) Conta Shipay**, depois deve ser cadastrado o **(ii) Usuário do Painel Shipay** e após, deve ser cadastrada uma **(iii) Loja** na Conta do cliente Shipay. 
+
 
 Um parceiro estratégico trouxe a seguinte demanda para você, Product Owner da Shipay:
 
+
 *"Gostaria de ter a possibilidade de cadastrar a **(i) Conta Shipay**, o **(ii) Usuário do Painel Shipay** e uma **(iii) Loja** com um único formulário para não ter que acessar 3 formulários separados para concluir o cadastro do Lojista na Shipay."*
+
 
 Você entendeu a demanda e pediu auxílio do time de Design de Produto para desenhar uma tela com essa funcionalidade. O time de Design te entregou o seguinte modal de cadastro:
 
 ![modal_de_cadastro_completo](https://user-images.githubusercontent.com/59707512/137926227-831000a7-ae66-4b34-80d3-d45fda7f909f.png)
 
+
 #### Você aprovou o design da tela e precisa priorizar essa atividade junto ao time de desenolvimento. Escreva uma user-story para essa funcionalidade:
 
+
 ---
+
 
 ### 2) O time de desenvolvimento concluiu o desenvolvimento da funcionalidade descrita na questão anterior. Quais testes funcionais você faria para validar essa funcionalidade?
