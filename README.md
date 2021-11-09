@@ -31,8 +31,24 @@ Você entendeu a demanda e pediu auxílio do time de Design de Produto para dese
 
 #### Você aprovou o design da tela e deve priorizar essa atividade junto ao time de desenolvimento. Escreva a user-story para essa funcionalidade:
 
+**Resposta:** 
+
+**User Story 123:** Unificação de formulários para cadastro de logista.
+
+**Prioridade "1"**
+
+**Solicitante:** Usuário Administrador
+
+Eu como usuário administrador, gostaria de cadastrar a (i) Conta Shipay, o (ii) Usuário do Painel Shipay e uma (iii) Loja com um único formulário para não ter que acessar 3 formulários separados para concluir o cadastro do Lojista na Shipay.
+
+**Critérios de Aceitação:** O formulário unificado precisa conter todos os campos obrigatórios para a criação de um novo cadastro de logista na Shipay e contemplar o os cadastros  **(i) Conta Shipay**, o **(ii) Usuário do Painel Shipay** e uma **(iii) Loja simultaneamente, sem gerar impacto para outras funcionalidades. 
+
+**Resultado Esperado:** Concluir um cadastro de Lojista na Shipay através de um único formulário. 
+
 
 ---
 
 
 ### 2) O time de desenvolvimento concluiu o desenvolvimento da funcionalidade descrita na questão anterior. Quais testes funcionais você faria para validar essa funcionalidade?
+
+**Resposta:** Teste de Caixa Preta para garantir que atende os requisitos e cumpre com as funções que deve executar, e teste de usabilidade com objetivo de verificar se a nova funcionalidade pode ser facilmente compreendida pelo usuário final, homologação com o solicitante antes de disponibilizar a nova funcionalidade em produção. 
